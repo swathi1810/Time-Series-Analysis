@@ -12,7 +12,7 @@ The Machine Learning Model is the heart of the project. The crawler retreives al
 
 ## Architecture
 
-It is very important to understand that the project is in a very early stage and there is no vital importance to the UI or how the output is produced. The output of the experiment is a minimal viable product.
+It is very important to understand that the project is in a very early stage and there is no vital importance to the UI or how the output is produced. The output of the experiment is a minimal viable product. As long as there is an output, that is all the team should focus upon in the incent stage.
 
 ## OUTPUT
 
