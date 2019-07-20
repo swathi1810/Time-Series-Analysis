@@ -20,7 +20,7 @@ To run the standalone scrapy program :
 This will run the spider named link_checker.
 
 - The output for now consists of all the links found in the given domain with a max depth upto two including the link - text
-- A further modification will be extracting only the links with correlating directly to the desired ouptput ( i.e topics which are latest and debated.)
+- A further modification will be extracting only the links correlating directly to the desired ouptput ( i.e topics which are latest and most debated.)
 
 
 
